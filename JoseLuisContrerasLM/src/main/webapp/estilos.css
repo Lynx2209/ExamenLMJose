@@ -1,0 +1,27 @@
+@charset "UFT-8";
+  
+  table {
+    border-collapse: collapse;
+    background-color: green;
+    color: white;
+  }
+  th, td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 8px;
+    text-align: center;
+  }
+  td:hover {
+    background-color: blue;
+  }
+  
+  .espacio {
+	  letter-spacing: 5px;
+	  color: black;
+	  text-align: center;
+	  padding: 5px;
+  }
+  
+.azulClaro {
+    background-color: rgb(0, 255, 255);
+  }
+
